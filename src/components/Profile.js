@@ -2,7 +2,7 @@ import { Button, Card } from "react-bootstrap";
 const Profile = (props) => {
     return (
         <div>
-            <Card style={{ width: '18rem' }}>
+            <Card style={{ width: '18rem' }} className="shadow">
                 <Card.Img variant="top" src={props.info.img} />
                 <Card.Body>
                     <Card.Title>{props.info.Name}</Card.Title>
