@@ -46,7 +46,7 @@ const PLinks = () => {
                     <tr>
                         <td>Final Report</td>
                         <td>
-                            <a rel="noreferrer" href="https://drive.google.com/drive/folders/1LdgT5NapJj15JGRhcXlSquTlF6Q8x9sc?usp=sharing" target="_blank">Open</a>
+                            <a rel="noreferrer" href="https://drive.google.com/drive/folders/1xylJEobbh2q3iLRy3Z5OUmIyKGygc9Ud?usp=sharing" target="_blank">Open</a>
                         </td>
                     </tr>
                 </tbody>
