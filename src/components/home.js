@@ -13,7 +13,7 @@ const Home = () => {
         <div className="container mb-5" style={{ marginTop: "120px" }}>
             <div className="row shadow" id="int" style={divstyle}>
                 <div className="col">
-                    <h1 className="border-bottom">Introdution</h1>
+                    <h1 className="border-bottom">Introduction</h1>
                     <p>
                         Certification has found its way into almost every industry for a reason: It helps advance the profession. Certification helps employers assess potential new hires, evaluate job performance, evaluate workers, pick contractors, market resources, and encourage employees to develop their skills and abilities. Certification provides recognition of skills, demonstrates devotion to the profession, and assists with career advancement. There has been an explosive growth in professional certification. Professional Certification helps one to:
                     </p>
@@ -175,21 +175,21 @@ const Home = () => {
             <hr />
             <div className="row mt-5" id="ot">
                 <div className="col">
-                    <Profile info={data[3]} />
+                    <Profile info={data[3]} key="1" />
                 </div>
                 <div className="col">
-                    <Profile info={data[2]} />
+                    <Profile info={data[2]} key="2" />
                 </div>
                 <div className="col">
-                    <Profile info={data[0]} />
+                    <Profile info={data[0]} key="3" />
                 </div>
             </div>
             <div className="row mt-5" id="ot">
                 <div className="col d-flex justify-content-center">
-                    <Profile info={data[1]} />
+                    <Profile info={data[1]} key="4" />
                 </div>
                 <div className="col d-flex justify-content-center">
-                    <Profile info={data[4]} />
+                    <Profile info={data[4]} key="5" />
                 </div>
             </div>
 

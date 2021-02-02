@@ -1,4 +1,4 @@
-import { Button, Card } from "react-bootstrap";
+import { Card } from "react-bootstrap";
 const Profile = (props) => {
     return (
         <div>
@@ -6,15 +6,13 @@ const Profile = (props) => {
                 <Card.Img variant="top" src={props.info.img} />
                 <Card.Body>
                     <Card.Title>{props.info.Name}</Card.Title>
-                    <Card.Text>
-                        <h4>Roles</h4>
-                        
-                       <ul>
-                       {props.info.Roles.map((role) => (
-                            <li>{role}</li>
+                    <h4>Roles</h4>
+
+                    <ul>
+                        {props.info.Roles.map((role, index) => (
+                            <li key={index + "p"}>{role}</li>
                         ))}
-                       </ul>
-                    </Card.Text>
+                    </ul>
                     {/* <Button variant="primary">Go somewhere</Button> */}
                 </Card.Body>
             </Card>

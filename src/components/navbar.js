@@ -1,4 +1,4 @@
-import {Nav,Navbar} from "react-bootstrap"
+import { Nav, Navbar } from "react-bootstrap"
 const navbar = () => {
     return (
         <div>
@@ -8,7 +8,7 @@ const navbar = () => {
                 <Navbar.Collapse id="basic-navbar-nav">
                     <Nav className="mr-auto">
                         <Nav.Link href="#int">Introduction</Nav.Link>
-                        <Nav.Link href="#pr">Prototype</Nav.Link>
+                        <Nav.Link href="#ar">Artifacts</Nav.Link>
                         <Nav.Link href="#sc">Scenrios</Nav.Link>
                         <Nav.Link href="#ta">Task Analysis</Nav.Link>
                         <Nav.Link href="#ua">User Analysis</Nav.Link>
