@@ -14,39 +14,39 @@ const PLinks = () => {
                     <tr>
                         <td>Website</td>
                         <td>
-                            <a href="https://mr-devs.ml/" target="_blank">Open</a>
+                            <a rel="noreferrer" href="https://mr-devs.ml/" target="_blank">Open</a>
                         </td>
 
                     </tr>
                     <tr>
                         <td>Full Project</td>
                         <td>
-                            <a href="https://drive.google.com/drive/folders/1LdgT5NapJj15JGRhcXlSquTlF6Q8x9sc?usp=sharing" target="_blank">Open</a>
+                            <a rel="noreferrer" href="https://drive.google.com/drive/folders/1LdgT5NapJj15JGRhcXlSquTlF6Q8x9sc?usp=sharing" target="_blank">Open</a>
                         </td>
 
                     </tr>
                     <tr>
                         <td>Prototypes</td>
                         <td>
-                            <a href="https://drive.google.com/drive/folders/1LdgT5NapJj15JGRhcXlSquTlF6Q8x9sc?usp=sharing" target="_blank">Open</a>
+                            <a rel="noreferrer" href="https://drive.google.com/drive/folders/1LdgT5NapJj15JGRhcXlSquTlF6Q8x9sc?usp=sharing" target="_blank">Open</a>
                         </td>
                     </tr>
                     <tr>
                         <td>Chapters</td>
                         <td>
-                            <a href="https://drive.google.com/drive/folders/1LdgT5NapJj15JGRhcXlSquTlF6Q8x9sc?usp=sharing" target="_blank">Open</a>
+                            <a rel="noreferrer" href="https://drive.google.com/drive/folders/1LdgT5NapJj15JGRhcXlSquTlF6Q8x9sc?usp=sharing" target="_blank">Open</a>
                         </td>
                     </tr>
                     <tr>
                         <td>Final Report</td>
                         <td>
-                            <a href="https://drive.google.com/drive/folders/1LdgT5NapJj15JGRhcXlSquTlF6Q8x9sc?usp=sharing" target="_blank">Open</a>
+                            <a rel="noreferrer" href="https://drive.google.com/drive/folders/1LdgT5NapJj15JGRhcXlSquTlF6Q8x9sc?usp=sharing" target="_blank">Open</a>
                         </td>
                     </tr>
                     <tr>
                         <td>Presentation</td>
                         <td>
-                            <a href="https://drive.google.com/drive/folders/1LdgT5NapJj15JGRhcXlSquTlF6Q8x9sc?usp=sharing" target="_blank">Open</a>
+                            <a rel="noreferrer" href="https://drive.google.com/drive/folders/1LdgT5NapJj15JGRhcXlSquTlF6Q8x9sc?usp=sharing" target="_blank">Open</a>
                         </td>
                     </tr>
                 </tbody>
